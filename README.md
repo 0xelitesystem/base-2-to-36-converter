@@ -1,8 +1,8 @@
-# Number Base Converter
+# Base 2 to 36 Converter
 
 Convert an integer between binary, octal, decimal, hexadecimal, and any base from 2 to 36, in your browser. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/number-base-converter/
+**Live demo:** https://0xelitesystem.github.io/base-2-to-36-converter/
 
 ## Use
 
@@ -26,8 +26,8 @@ Everything runs in your browser. The numbers you type never leave your machine. 
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/number-base-converter
-cd number-base-converter
+git clone https://github.com/0xelitesystem/base-2-to-36-converter
+cd base-2-to-36-converter
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
@@ -58,5 +58,5 @@ MIT.
 ## Related
 
 - [base64-url-encoder-decoder](https://github.com/0xelitesystem/base64-url-encoder-decoder), encode and decode Base64 and Base64URL
-- [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator), format and validate JSON in your browser
+- [json-format-minify-validate](https://github.com/0xelitesystem/json-format-minify-validate), format and validate JSON in your browser
 - [naming-case-converter](https://github.com/0xelitesystem/naming-case-converter), convert text between casing styles
